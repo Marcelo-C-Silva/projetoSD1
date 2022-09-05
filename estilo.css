@@ -1,0 +1,60 @@
+section > div{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+body{
+    background-color: #377eb4 ;
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
+section > form{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+section > form >input{
+    border-radius: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    border: 1px;
+    height: 40px;
+    min-width: 200px;
+    max-width: 800px;
+
+    
+    
+
+}
+section > form> button{
+    text-align: center;
+    font-size: medium;
+    font-family: sans-serif;
+    border-radius: 20px;
+    border: 1px solid  #377eb4;
+    background-color: #79c5ff;
+    color: #ffffff;
+    margin-top: 30px;
+    height: 40px;
+    min-width: 200px;
+    max-width: 800px;
+   
+}
+div > a{
+    text-decoration: none;
+    color: #ffffff;
+    font-family:sans-serif;
+    font-size:small;
+    
+}
+::placeholder{
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+
+
+        
+
